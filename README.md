@@ -3,7 +3,7 @@
 This module explored passing props into test components, rerendering components and using mocks to both monitor functional props and override the functionality of external modules. In this project, you will practice each of these practices in the testing of an application that displays TV show data.
 
 ## Objectives
-- Understand how to test the effects of passing specific props into a component
+x Understand how to test the effects of passing specific props into a component
 - Understand how to monitor the behavior of functional mock props.
 - Understand how and when to test using the rerender method
 - Learn how to mock the use an external module
